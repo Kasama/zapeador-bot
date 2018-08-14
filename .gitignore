@@ -1,0 +1,4 @@
+.stack-work/
+zapeador-bot.cabal
+**/node_modules/
+*~
